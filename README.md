@@ -1278,6 +1278,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [passlib](https://github.com/hlandau/passlib) - Futureproof password hashing library.
 * [secure](https://github.com/unrolled/secure) - HTTP middleware for Go that facilitates some quick security wins.
 * [simple-scrypt](https://github.com/elithrar/simple-scrypt) - Scrypt package with a simple, obvious API and automatic cost calibration built-in.
+* [vaultssh](https://github.com/richard-mauri/vaultssh) - ssh and scp operations using signed ssh keys all in memory.
 * [ssh-vault](https://github.com/ssh-vault/ssh-vault) - encrypt/decrypt using ssh keys.
 
 ## Serialization
